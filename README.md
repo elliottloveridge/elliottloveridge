@@ -2,4 +2,4 @@
 - 👀 I’m interested in;
   - developing in both **software engineering** and **data science**
   - the application of machine learning to finance (currently reading Advances in Financial Machine Learning 📚)
-- 🌱 I’m currently learning some C++ as well as Algorithms, Data Structures & Computational Efficiency
+- 🌱 I’m currently learning some C++ as well as algorithms, data structures & computational efficiency
