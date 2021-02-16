@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @elliottloveridge
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-elliottloveridge/elliottloveridge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @elliottloveridge, a data science graduate from the University of Bath
+- 👀 I’m interested in;
+  - developing in both **software engineering** and **data science**
+  - the application of machine learning to finance (currently reading Advances in Financial Machine Learning 📚)
+- 🌱 I’m currently learning some C++ as well as Algorithms, Data Structures & Computational Efficiency
