@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @elliottloveridge, an MSc Data Science graduate from the University of Bath
 - 👀 I’m interested in developing in both **software engineering** and **data science**
 - 👨🏻‍💻 I'm experienced in advanced analytics and building tools within Python, most recently as a Business Analyst at Amazon
-- 🌱 I’m currently learning Java as well as algorithms, data structures & computational efficiency
+- 🌱 I’m currently learning algorithms and data structures
